@@ -1,1 +1,3 @@
-# sql-exercises
+# SQL Exercises
+
+Exercsies in sql
